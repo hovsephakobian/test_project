@@ -1,0 +1,10 @@
+{
+    "keywords": {
+        "warehouseBalance": "Остатки на складе",
+        "productName": "Наименование",
+        "count": "Кол-во",
+        "producer": "Производитель"
+
+    }
+
+}
